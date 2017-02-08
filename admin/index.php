@@ -65,6 +65,9 @@
 					</tbody>
 				</table>
 				<!-- /.table-responsive -->
+				<div class="col-lg-2">
+					<a href="create.php" class="btn btn-default btn-primary btn-block">Tambah</a>
+				</div>
 			</div>
 			<!-- /.panel-body -->
 		</div>
